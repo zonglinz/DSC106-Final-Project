@@ -1,0 +1,414 @@
+record_type,city,lat,lon,scenario,year,season,profile,comparison_city,metric,value,unit
+city_location,San Diego,32.7157,-117.1611,,,,,,city_location,,degrees
+city_location,Los Angeles,34.0522,-118.2437,,,,,,city_location,,degrees
+city_location,Riverside,33.9806,-117.3755,,,,,,city_location,,degrees
+city_location,Phoenix,33.4484,-112.074,,,,,,city_location,,degrees
+city_location,Las Vegas,36.1699,-115.1398,,,,,,city_location,,degrees
+city_location,Sacramento,38.5816,-121.4944,,,,,,city_location,,degrees
+city_location,San Francisco,37.7749,-122.4194,,,,,,city_location,,degrees
+city_location,Fresno,36.7378,-119.7871,,,,,,city_location,,degrees
+city_location,Tucson,32.2226,-110.9747,,,,,,city_location,,degrees
+city_location,Seattle,47.6062,-122.3321,,,,,,city_location,,degrees
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2020.0,,,,annual_temp_anomaly_c,1.1,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2021.0,,,,annual_temp_anomaly_c,1.1322975405832154,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2022.0,,,,annual_temp_anomaly_c,1.1634038909176185,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2023.0,,,,annual_temp_anomaly_c,1.1922432443304278,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2024.0,,,,annual_temp_anomaly_c,1.2179593847742236,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2025.0,,,,annual_temp_anomaly_c,1.23999862342713,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2026.0,,,,annual_temp_anomaly_c,1.2581634312643877,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2027.0,,,,annual_temp_anomaly_c,1.2726315725303319,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2028.0,,,,annual_temp_anomaly_c,1.2839388857641583,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2029.0,,,,annual_temp_anomaly_c,1.2929273802799874,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2030.0,,,,annual_temp_anomaly_c,1.300663675689174,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2031.0,,,,annual_temp_anomaly_c,1.3083356847474459,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2032.0,,,,annual_temp_anomaly_c,1.3171375472503064,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2033.0,,,,annual_temp_anomaly_c,1.3281539607518054,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2034.0,,,,annual_temp_anomaly_c,1.3422551123079614,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2035.0,,,,annual_temp_anomaly_c,1.360012388587351,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2036.0,,,,annual_temp_anomaly_c,1.3816430290134745,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2037.0,,,,annual_temp_anomaly_c,1.4069890830626661,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2038.0,,,,annual_temp_anomaly_c,1.4355327100000308,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2039.0,,,,annual_temp_anomaly_c,1.4664463390581932,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2040.0,,,,annual_temp_anomaly_c,1.4986728313380977,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2041.0,,,,annual_temp_anomaly_c,1.5310278786211664,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2042.0,,,,annual_temp_anomaly_c,1.5623147203236376,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2043.0,,,,annual_temp_anomaly_c,1.591440066638099,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2044.0,,,,annual_temp_anomaly_c,1.6175199990709896,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2045.0,,,,annual_temp_anomaly_c,1.639965590415403,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2046.0,,,,annual_temp_anomaly_c,1.6585399506572476,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2047.0,,,,annual_temp_anomaly_c,1.673381173114187,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2048.0,,,,annual_temp_anomaly_c,1.6849889581501676,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2049.0,,,,annual_temp_anomaly_c,1.6941762101474465,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2050.0,,,,annual_temp_anomaly_c,1.701990296252043,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2051.0,,,,annual_temp_anomaly_c,1.6936115940936827,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2052.0,,,,annual_temp_anomaly_c,1.6862391555644252,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2053.0,,,,annual_temp_anomaly_c,1.6809745617316065,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2054.0,,,,annual_temp_anomaly_c,1.6787152191748738,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2055.0,,,,annual_temp_anomaly_c,1.6800674335020114,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2056.0,,,,annual_temp_anomaly_c,1.6852876800995495,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2057.0,,,,annual_temp_anomaly_c,1.6942577608742766,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2058.0,,,,annual_temp_anomaly_c,1.7064962534056196,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2059.0,,,,annual_temp_anomaly_c,1.7212051434970133,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2060.0,,,,annual_temp_anomaly_c,1.737347124105952,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2061.0,,,,annual_temp_anomaly_c,1.7537460731611352,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2062.0,,,,annual_temp_anomaly_c,1.7692009775729856,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2063.0,,,,annual_temp_anomaly_c,1.7826022682903473,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2064.0,,,,annual_temp_anomaly_c,1.793039297712345,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2065.0,,,,annual_temp_anomaly_c,1.799888548752216,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2066.0,,,,annual_temp_anomaly_c,1.8028740312611862,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2067.0,,,,annual_temp_anomaly_c,1.802094015566919,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2068.0,,,,annual_temp_anomaly_c,1.7980115136062846,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2069.0,,,,annual_temp_anomaly_c,1.791409429689,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2070.0,,,,annual_temp_anomaly_c,1.783314725173224,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2071.0,,,,annual_temp_anomaly_c,1.7748989427738566,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2072.0,,,,annual_temp_anomaly_c,1.7673647261272756,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2073.0,,,,annual_temp_anomaly_c,1.7618293267931826,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2074.0,,,,annual_temp_anomaly_c,1.7592163826834377,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2075.0,,,,annual_temp_anomaly_c,1.760166450703397,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2076.0,,,,annual_temp_anomaly_c,1.7649749597812736,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2077.0,,,,annual_temp_anomaly_c,1.7735635944097412,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2078.0,,,,annual_temp_anomaly_c,1.7854878806073722,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2079.0,,,,annual_temp_anomaly_c,1.7999802394925568,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2080.0,,,,annual_temp_anomaly_c,1.816024338124046,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2081.0,,,,annual_temp_anomaly_c,1.8324535356805733,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2082.0,,,,annual_temp_anomaly_c,1.8480638890785843,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2083.0,,,,annual_temp_anomaly_c,1.861730771840176,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2084.0,,,,annual_temp_anomaly_c,1.872517810029105,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2085.0,,,,annual_temp_anomaly_c,1.8797675832730407,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2086.0,,,,annual_temp_anomaly_c,1.8831653051988193,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2087.0,,,,annual_temp_anomaly_c,1.8827693149324012,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2088.0,,,,annual_temp_anomaly_c,1.879005426131712,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2089.0,,,,annual_temp_anomaly_c,1.872625680928238,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2090.0,,,,annual_temp_anomaly_c,1.8646355040398623,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2091.0,,,,annual_temp_anomaly_c,1.8561963132065233,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2092.0,,,,annual_temp_anomaly_c,1.8485130195015795,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2093.0,,,,annual_temp_anomaly_c,1.842717314700403,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2094.0,,,,annual_temp_anomaly_c,1.8397580509706648,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2095.0,,,,annual_temp_anomaly_c,1.840309331157375,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2096.0,,,,annual_temp_anomaly_c,1.844705212414863,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2097.0,,,,annual_temp_anomaly_c,1.8529073480598697,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2098.0,,,,annual_temp_anomaly_c,1.86450870198866,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2099.0,,,,annual_temp_anomaly_c,1.878772975864467,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP1-2.6,2100.0,,,,annual_temp_anomaly_c,1.8947059299960889,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2020.0,,,,annual_temp_anomaly_c,1.1,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2021.0,,,,annual_temp_anomaly_c,1.148964207249882,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2022.0,,,,annual_temp_anomaly_c,1.1967372242509517,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2023.0,,,,annual_temp_anomaly_c,1.2422432443304279,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2024.0,,,,annual_temp_anomaly_c,1.2846260514408903,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2025.0,,,,annual_temp_anomaly_c,1.3233319567604633,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2026.0,,,,annual_temp_anomaly_c,1.3581634312643878,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2027.0,,,,annual_temp_anomaly_c,1.3892982391969988,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2028.0,,,,annual_temp_anomaly_c,1.4172722190974918,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2029.0,,,,annual_temp_anomaly_c,1.4429273802799876,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2030.0,,,,annual_temp_anomaly_c,1.4673303423558408,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2031.0,,,,annual_temp_anomaly_c,1.4916690180807792,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2032.0,,,,annual_temp_anomaly_c,1.5171375472503064,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2033.0,,,,annual_temp_anomaly_c,1.5448206274184721,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2034.0,,,,annual_temp_anomaly_c,1.575588445641295,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2035.0,,,,annual_temp_anomaly_c,1.6100123885873512,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2036.0,,,,annual_temp_anomaly_c,1.6483096956801413,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2037.0,,,,annual_temp_anomaly_c,1.6903224163959998,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2038.0,,,,annual_temp_anomaly_c,1.735532710000031,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2039.0,,,,annual_temp_anomaly_c,1.78311300572486,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2040.0,,,,annual_temp_anomaly_c,1.8320061646714312,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2041.0,,,,annual_temp_anomaly_c,1.8810278786211665,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2042.0,,,,annual_temp_anomaly_c,1.9289813869903043,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2043.0,,,,annual_temp_anomaly_c,1.9747733999714325,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2044.0,,,,annual_temp_anomaly_c,2.0175199990709896,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2045.0,,,,annual_temp_anomaly_c,2.0566322570820694,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2046.0,,,,annual_temp_anomaly_c,2.0918732839905814,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2047.0,,,,annual_temp_anomaly_c,2.123381173114187,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2048.0,,,,annual_temp_anomaly_c,2.1516556248168346,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2049.0,,,,annual_temp_anomaly_c,2.17750954348078,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2050.0,,,,annual_temp_anomaly_c,2.2019902962520432,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2051.0,,,,annual_temp_anomaly_c,2.209611594093683,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2052.0,,,,annual_temp_anomaly_c,2.2182391555644254,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2053.0,,,,annual_temp_anomaly_c,2.2289745617316066,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2054.0,,,,annual_temp_anomaly_c,2.2427152191748743,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2055.0,,,,annual_temp_anomaly_c,2.2600674335020114,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2056.0,,,,annual_temp_anomaly_c,2.28128768009955,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2057.0,,,,annual_temp_anomaly_c,2.306257760874277,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2058.0,,,,annual_temp_anomaly_c,2.33449625340562,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2059.0,,,,annual_temp_anomaly_c,2.365205143497014,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2060.0,,,,annual_temp_anomaly_c,2.3973471241059525,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2061.0,,,,annual_temp_anomaly_c,2.4297460731611356,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2062.0,,,,annual_temp_anomaly_c,2.461200977572986,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2063.0,,,,annual_temp_anomaly_c,2.4906022682903473,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2064.0,,,,annual_temp_anomaly_c,2.5170392977123455,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2065.0,,,,annual_temp_anomaly_c,2.539888548752216,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2066.0,,,,annual_temp_anomaly_c,2.558874031261186,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2067.0,,,,annual_temp_anomaly_c,2.574094015566919,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2068.0,,,,annual_temp_anomaly_c,2.5860115136062847,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2069.0,,,,annual_temp_anomaly_c,2.595409429689,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2070.0,,,,annual_temp_anomaly_c,2.603314725173224,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2071.0,,,,annual_temp_anomaly_c,2.610898942773857,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2072.0,,,,annual_temp_anomaly_c,2.6193647261272757,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2073.0,,,,annual_temp_anomaly_c,2.6298293267931827,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2074.0,,,,annual_temp_anomaly_c,2.643216382683438,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2075.0,,,,annual_temp_anomaly_c,2.660166450703397,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2076.0,,,,annual_temp_anomaly_c,2.680974959781274,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2077.0,,,,annual_temp_anomaly_c,2.7055635944097416,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2078.0,,,,annual_temp_anomaly_c,2.7334878806073726,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2079.0,,,,annual_temp_anomaly_c,2.763980239492557,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2080.0,,,,annual_temp_anomaly_c,2.796024338124046,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2081.0,,,,annual_temp_anomaly_c,2.828453535680574,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2082.0,,,,annual_temp_anomaly_c,2.8600638890785848,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2083.0,,,,annual_temp_anomaly_c,2.8897307718401763,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2084.0,,,,annual_temp_anomaly_c,2.9165178100291054,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2085.0,,,,annual_temp_anomaly_c,2.939767583273041,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2086.0,,,,annual_temp_anomaly_c,2.9591653051988196,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2087.0,,,,annual_temp_anomaly_c,2.9747693149324017,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2088.0,,,,annual_temp_anomaly_c,2.987005426131712,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2089.0,,,,annual_temp_anomaly_c,2.9966256809282386,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2090.0,,,,annual_temp_anomaly_c,3.0046355040398622,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2091.0,,,,annual_temp_anomaly_c,3.0121963132065237,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2092.0,,,,annual_temp_anomaly_c,3.0205130195015797,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2093.0,,,,annual_temp_anomaly_c,3.030717314700403,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2094.0,,,,annual_temp_anomaly_c,3.043758050970665,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2095.0,,,,annual_temp_anomaly_c,3.0603093311573755,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2096.0,,,,annual_temp_anomaly_c,3.080705212414863,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2097.0,,,,annual_temp_anomaly_c,3.1049073480598697,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2098.0,,,,annual_temp_anomaly_c,3.13250870198866,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2099.0,,,,annual_temp_anomaly_c,3.162772975864467,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP2-4.5,2100.0,,,,annual_temp_anomaly_c,3.1947059299960894,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2020.0,,,,annual_temp_anomaly_c,1.1,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2021.0,,,,annual_temp_anomaly_c,1.168964207249882,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2022.0,,,,annual_temp_anomaly_c,1.2367372242509518,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2023.0,,,,annual_temp_anomaly_c,1.3022432443304277,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2024.0,,,,annual_temp_anomaly_c,1.36462605144089,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2025.0,,,,annual_temp_anomaly_c,1.4233319567604632,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2026.0,,,,annual_temp_anomaly_c,1.4781634312643877,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2027.0,,,,annual_temp_anomaly_c,1.5292982391969985,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2028.0,,,,annual_temp_anomaly_c,1.5772722190974915,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2029.0,,,,annual_temp_anomaly_c,1.6229273802799873,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2030.0,,,,annual_temp_anomaly_c,1.6673303423558405,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2031.0,,,,annual_temp_anomaly_c,1.711669018080779,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2032.0,,,,annual_temp_anomaly_c,1.7571375472503064,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2033.0,,,,annual_temp_anomaly_c,1.804820627418472,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2034.0,,,,annual_temp_anomaly_c,1.8555884456412948,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2035.0,,,,annual_temp_anomaly_c,1.910012388587351,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2036.0,,,,annual_temp_anomaly_c,1.9683096956801414,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2037.0,,,,annual_temp_anomaly_c,2.0303224163959994,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2038.0,,,,annual_temp_anomaly_c,2.0955327100000307,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2039.0,,,,annual_temp_anomaly_c,2.1631130057248598,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2040.0,,,,annual_temp_anomaly_c,2.2320061646714313,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2041.0,,,,annual_temp_anomaly_c,2.3010278786211664,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2042.0,,,,annual_temp_anomaly_c,2.3689813869903045,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2043.0,,,,annual_temp_anomaly_c,2.4347733999714323,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2044.0,,,,annual_temp_anomaly_c,2.4975199990709895,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2045.0,,,,annual_temp_anomaly_c,2.5566322570820694,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2046.0,,,,annual_temp_anomaly_c,2.611873283990581,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2047.0,,,,annual_temp_anomaly_c,2.6633811731141868,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2048.0,,,,annual_temp_anomaly_c,2.711655624816834,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2049.0,,,,annual_temp_anomaly_c,2.7575095434807797,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2050.0,,,,annual_temp_anomaly_c,2.801990296252043,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2051.0,,,,annual_temp_anomaly_c,2.8336115940936826,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2052.0,,,,annual_temp_anomaly_c,2.866239155564425,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2053.0,,,,annual_temp_anomaly_c,2.9009745617316063,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2054.0,,,,annual_temp_anomaly_c,2.938715219174874,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2055.0,,,,annual_temp_anomaly_c,2.980067433502011,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2056.0,,,,annual_temp_anomaly_c,3.0252876800995496,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2057.0,,,,annual_temp_anomaly_c,3.0742577608742763,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2058.0,,,,annual_temp_anomaly_c,3.1264962534056195,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2059.0,,,,annual_temp_anomaly_c,3.181205143497013,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2060.0,,,,annual_temp_anomaly_c,3.237347124105952,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2061.0,,,,annual_temp_anomaly_c,3.293746073161135,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2062.0,,,,annual_temp_anomaly_c,3.3492009775729854,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2063.0,,,,annual_temp_anomaly_c,3.402602268290347,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2064.0,,,,annual_temp_anomaly_c,3.453039297712345,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2065.0,,,,annual_temp_anomaly_c,3.499888548752216,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2066.0,,,,annual_temp_anomaly_c,3.542874031261186,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2067.0,,,,annual_temp_anomaly_c,3.582094015566919,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2068.0,,,,annual_temp_anomaly_c,3.6180115136062843,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2069.0,,,,annual_temp_anomaly_c,3.651409429689,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2070.0,,,,annual_temp_anomaly_c,3.6833147251732234,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2071.0,,,,annual_temp_anomaly_c,3.7148989427738566,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2072.0,,,,annual_temp_anomaly_c,3.7473647261272753,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2073.0,,,,annual_temp_anomaly_c,3.781829326793183,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2074.0,,,,annual_temp_anomaly_c,3.8192163826834378,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2075.0,,,,annual_temp_anomaly_c,3.860166450703397,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2076.0,,,,annual_temp_anomaly_c,3.9049749597812737,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2077.0,,,,annual_temp_anomaly_c,3.9535635944097414,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2078.0,,,,annual_temp_anomaly_c,4.005487880607372,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2079.0,,,,annual_temp_anomaly_c,4.059980239492557,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2080.0,,,,annual_temp_anomaly_c,4.1160243381240464,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2081.0,,,,annual_temp_anomaly_c,4.172453535680573,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2082.0,,,,annual_temp_anomaly_c,4.228063889078585,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2083.0,,,,annual_temp_anomaly_c,4.281730771840176,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2084.0,,,,annual_temp_anomaly_c,4.332517810029105,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2085.0,,,,annual_temp_anomaly_c,4.379767583273041,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2086.0,,,,annual_temp_anomaly_c,4.42316530519882,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2087.0,,,,annual_temp_anomaly_c,4.462769314932401,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2088.0,,,,annual_temp_anomaly_c,4.499005426131712,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2089.0,,,,annual_temp_anomaly_c,4.532625680928239,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2090.0,,,,annual_temp_anomaly_c,4.564635504039863,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2091.0,,,,annual_temp_anomaly_c,4.596196313206524,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2092.0,,,,annual_temp_anomaly_c,4.628513019501579,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2093.0,,,,annual_temp_anomaly_c,4.662717314700403,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2094.0,,,,annual_temp_anomaly_c,4.699758050970665,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2095.0,,,,annual_temp_anomaly_c,4.740309331157375,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2096.0,,,,annual_temp_anomaly_c,4.784705212414863,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2097.0,,,,annual_temp_anomaly_c,4.83290734805987,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2098.0,,,,annual_temp_anomaly_c,4.8845087019886595,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2099.0,,,,annual_temp_anomaly_c,4.938772975864467,degC
+annual_temp_anomaly,San Diego,32.7157,-117.1611,SSP5-8.5,2100.0,,,,annual_temp_anomaly_c,4.994705929996089,degC
+seasonal_temp_profile,San Diego,32.7157,-117.1611,Historical,,Winter,San Diego today,,seasonal_mean_temp_c,14.3,degC
+seasonal_temp_profile,San Diego,32.7157,-117.1611,Historical,,Spring,San Diego today,,seasonal_mean_temp_c,16.2,degC
+seasonal_temp_profile,San Diego,32.7157,-117.1611,Historical,,Summer,San Diego today,,seasonal_mean_temp_c,21.8,degC
+seasonal_temp_profile,San Diego,32.7157,-117.1611,Historical,,Fall,San Diego today,,seasonal_mean_temp_c,19.0,degC
+seasonal_temp_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Winter,San Diego 2080s SSP5-8.5,,seasonal_mean_temp_c,18.0,degC
+seasonal_temp_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Spring,San Diego 2080s SSP5-8.5,,seasonal_mean_temp_c,20.5,degC
+seasonal_temp_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Summer,San Diego 2080s SSP5-8.5,,seasonal_mean_temp_c,26.9,degC
+seasonal_temp_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Fall,San Diego 2080s SSP5-8.5,,seasonal_mean_temp_c,23.4,degC
+seasonal_temp_profile,Riverside,33.9806,-117.3755,Historical,,Winter,Riverside today,,seasonal_mean_temp_c,12.8,degC
+seasonal_temp_profile,Riverside,33.9806,-117.3755,Historical,,Spring,Riverside today,,seasonal_mean_temp_c,17.8,degC
+seasonal_temp_profile,Riverside,33.9806,-117.3755,Historical,,Summer,Riverside today,,seasonal_mean_temp_c,27.6,degC
+seasonal_temp_profile,Riverside,33.9806,-117.3755,Historical,,Fall,Riverside today,,seasonal_mean_temp_c,20.8,degC
+seasonal_temp_profile,Phoenix,33.4484,-112.074,Historical,,Winter,Phoenix today,,seasonal_mean_temp_c,14.5,degC
+seasonal_temp_profile,Phoenix,33.4484,-112.074,Historical,,Spring,Phoenix today,,seasonal_mean_temp_c,25.1,degC
+seasonal_temp_profile,Phoenix,33.4484,-112.074,Historical,,Summer,Phoenix today,,seasonal_mean_temp_c,35.3,degC
+seasonal_temp_profile,Phoenix,33.4484,-112.074,Historical,,Fall,Phoenix today,,seasonal_mean_temp_c,25.0,degC
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2050 SSP1-2.6,Los Angeles,climate_twin_similarity_score,81.88729679304167,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2050 SSP1-2.6,Riverside,climate_twin_similarity_score,51.298971650233995,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2050 SSP1-2.6,Fresno,climate_twin_similarity_score,40.75603930205845,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2050 SSP1-2.6,Las Vegas,climate_twin_similarity_score,17.08177721639635,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2050 SSP1-2.6,Phoenix,climate_twin_similarity_score,15.379897565687573,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2050 SSP1-2.6,Tucson,climate_twin_similarity_score,16.647882061247692,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2050 SSP2-4.5,Los Angeles,climate_twin_similarity_score,74.73735986384106,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2050 SSP2-4.5,Riverside,climate_twin_similarity_score,53.43416471661779,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2050 SSP2-4.5,Fresno,climate_twin_similarity_score,41.2155367530802,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2050 SSP2-4.5,Las Vegas,climate_twin_similarity_score,18.048463178137546,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2050 SSP2-4.5,Phoenix,climate_twin_similarity_score,16.59802450439703,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2050 SSP2-4.5,Tucson,climate_twin_similarity_score,17.702055843121496,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2050 SSP5-8.5,Los Angeles,climate_twin_similarity_score,64.52006700792082,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2050 SSP5-8.5,Riverside,climate_twin_similarity_score,56.04407457281807,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2050 SSP5-8.5,Fresno,climate_twin_similarity_score,41.42331347114059,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2050 SSP5-8.5,Las Vegas,climate_twin_similarity_score,19.663429519635255,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2050 SSP5-8.5,Phoenix,climate_twin_similarity_score,18.733147883322623,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2050 SSP5-8.5,Tucson,climate_twin_similarity_score,19.40631958879417,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2080s SSP1-2.6,Los Angeles,climate_twin_similarity_score,72.10667151914208,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2080s SSP1-2.6,Riverside,climate_twin_similarity_score,54.15414884597317,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2080s SSP1-2.6,Fresno,climate_twin_similarity_score,41.26565365894043,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2080s SSP1-2.6,Las Vegas,climate_twin_similarity_score,18.42311543292997,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2080s SSP1-2.6,Phoenix,climate_twin_similarity_score,17.073389606744893,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP1-2.6,,,2080s SSP1-2.6,Tucson,climate_twin_similarity_score,18.10644299900808,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2080s SSP2-4.5,Los Angeles,climate_twin_similarity_score,57.53895553793382,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2080s SSP2-4.5,Riverside,climate_twin_similarity_score,56.67194841760212,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2080s SSP2-4.5,Fresno,climate_twin_similarity_score,40.94298598800321,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2080s SSP2-4.5,Las Vegas,climate_twin_similarity_score,20.89018477511871,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2080s SSP2-4.5,Phoenix,climate_twin_similarity_score,20.532117529013576,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP2-4.5,,,2080s SSP2-4.5,Tucson,climate_twin_similarity_score,20.764349436359502,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2080s SSP5-8.5,Los Angeles,climate_twin_similarity_score,47.03645562870994,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2080s SSP5-8.5,Riverside,climate_twin_similarity_score,56.33174168963379,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2080s SSP5-8.5,Fresno,climate_twin_similarity_score,39.642725386265646,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2080s SSP5-8.5,Las Vegas,climate_twin_similarity_score,23.5155698792331,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2080s SSP5-8.5,Phoenix,climate_twin_similarity_score,24.378684440772293,0-100 score
+climate_twin_similarity,San Diego,32.7157,-117.1611,SSP5-8.5,,,2080s SSP5-8.5,Tucson,climate_twin_similarity_score,23.60214308032954,0-100 score
+precip_change,San Diego,32.7157,-117.1611,SSP1-2.6,,Winter,2080s vs historical present,,seasonal_precip_change_pct,-3.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP1-2.6,,Spring,2080s vs historical present,,seasonal_precip_change_pct,-2.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP1-2.6,,Summer,2080s vs historical present,,seasonal_precip_change_pct,-5.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP1-2.6,,Fall,2080s vs historical present,,seasonal_precip_change_pct,-2.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP2-4.5,,Winter,2080s vs historical present,,seasonal_precip_change_pct,-7.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP2-4.5,,Spring,2080s vs historical present,,seasonal_precip_change_pct,-5.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP2-4.5,,Summer,2080s vs historical present,,seasonal_precip_change_pct,-11.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP2-4.5,,Fall,2080s vs historical present,,seasonal_precip_change_pct,-5.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP5-8.5,,Winter,2080s vs historical present,,seasonal_precip_change_pct,-13.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP5-8.5,,Spring,2080s vs historical present,,seasonal_precip_change_pct,-10.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP5-8.5,,Summer,2080s vs historical present,,seasonal_precip_change_pct,-19.0,percent
+precip_change,San Diego,32.7157,-117.1611,SSP5-8.5,,Fall,2080s vs historical present,,seasonal_precip_change_pct,-9.0,percent
+seasonal_comparison_profile,Los Angeles,34.0522,-118.2437,Historical,,Winter,Los Angeles today,,seasonal_mean_temp_c,14.6,degC
+seasonal_comparison_profile,Los Angeles,34.0522,-118.2437,Historical,,Spring,Los Angeles today,,seasonal_mean_temp_c,16.9,degC
+seasonal_comparison_profile,Los Angeles,34.0522,-118.2437,Historical,,Summer,Los Angeles today,,seasonal_mean_temp_c,22.6,degC
+seasonal_comparison_profile,Los Angeles,34.0522,-118.2437,Historical,,Fall,Los Angeles today,,seasonal_mean_temp_c,19.5,degC
+seasonal_comparison_profile,Los Angeles,34.0522,-118.2437,Historical,,Winter,Los Angeles today,,seasonal_precip_mm,225.0,mm
+seasonal_comparison_profile,Los Angeles,34.0522,-118.2437,Historical,,Spring,Los Angeles today,,seasonal_precip_mm,70.0,mm
+seasonal_comparison_profile,Los Angeles,34.0522,-118.2437,Historical,,Summer,Los Angeles today,,seasonal_precip_mm,5.0,mm
+seasonal_comparison_profile,Los Angeles,34.0522,-118.2437,Historical,,Fall,Los Angeles today,,seasonal_precip_mm,55.0,mm
+seasonal_comparison_profile,Riverside,33.9806,-117.3755,Historical,,Winter,Riverside today,,seasonal_mean_temp_c,12.8,degC
+seasonal_comparison_profile,Riverside,33.9806,-117.3755,Historical,,Spring,Riverside today,,seasonal_mean_temp_c,17.8,degC
+seasonal_comparison_profile,Riverside,33.9806,-117.3755,Historical,,Summer,Riverside today,,seasonal_mean_temp_c,27.6,degC
+seasonal_comparison_profile,Riverside,33.9806,-117.3755,Historical,,Fall,Riverside today,,seasonal_mean_temp_c,20.8,degC
+seasonal_comparison_profile,Riverside,33.9806,-117.3755,Historical,,Winter,Riverside today,,seasonal_precip_mm,160.0,mm
+seasonal_comparison_profile,Riverside,33.9806,-117.3755,Historical,,Spring,Riverside today,,seasonal_precip_mm,45.0,mm
+seasonal_comparison_profile,Riverside,33.9806,-117.3755,Historical,,Summer,Riverside today,,seasonal_precip_mm,8.0,mm
+seasonal_comparison_profile,Riverside,33.9806,-117.3755,Historical,,Fall,Riverside today,,seasonal_precip_mm,35.0,mm
+seasonal_comparison_profile,Fresno,36.7378,-119.7871,Historical,,Winter,Fresno today,,seasonal_mean_temp_c,9.4,degC
+seasonal_comparison_profile,Fresno,36.7378,-119.7871,Historical,,Spring,Fresno today,,seasonal_mean_temp_c,17.0,degC
+seasonal_comparison_profile,Fresno,36.7378,-119.7871,Historical,,Summer,Fresno today,,seasonal_mean_temp_c,28.5,degC
+seasonal_comparison_profile,Fresno,36.7378,-119.7871,Historical,,Fall,Fresno today,,seasonal_mean_temp_c,18.5,degC
+seasonal_comparison_profile,Fresno,36.7378,-119.7871,Historical,,Winter,Fresno today,,seasonal_precip_mm,150.0,mm
+seasonal_comparison_profile,Fresno,36.7378,-119.7871,Historical,,Spring,Fresno today,,seasonal_precip_mm,55.0,mm
+seasonal_comparison_profile,Fresno,36.7378,-119.7871,Historical,,Summer,Fresno today,,seasonal_precip_mm,5.0,mm
+seasonal_comparison_profile,Fresno,36.7378,-119.7871,Historical,,Fall,Fresno today,,seasonal_precip_mm,45.0,mm
+seasonal_comparison_profile,Las Vegas,36.1699,-115.1398,Historical,,Winter,Las Vegas today,,seasonal_mean_temp_c,9.9,degC
+seasonal_comparison_profile,Las Vegas,36.1699,-115.1398,Historical,,Spring,Las Vegas today,,seasonal_mean_temp_c,20.4,degC
+seasonal_comparison_profile,Las Vegas,36.1699,-115.1398,Historical,,Summer,Las Vegas today,,seasonal_mean_temp_c,34.2,degC
+seasonal_comparison_profile,Las Vegas,36.1699,-115.1398,Historical,,Fall,Las Vegas today,,seasonal_mean_temp_c,22.0,degC
+seasonal_comparison_profile,Las Vegas,36.1699,-115.1398,Historical,,Winter,Las Vegas today,,seasonal_precip_mm,55.0,mm
+seasonal_comparison_profile,Las Vegas,36.1699,-115.1398,Historical,,Spring,Las Vegas today,,seasonal_precip_mm,20.0,mm
+seasonal_comparison_profile,Las Vegas,36.1699,-115.1398,Historical,,Summer,Las Vegas today,,seasonal_precip_mm,30.0,mm
+seasonal_comparison_profile,Las Vegas,36.1699,-115.1398,Historical,,Fall,Las Vegas today,,seasonal_precip_mm,25.0,mm
+seasonal_comparison_profile,Phoenix,33.4484,-112.074,Historical,,Winter,Phoenix today,,seasonal_mean_temp_c,14.5,degC
+seasonal_comparison_profile,Phoenix,33.4484,-112.074,Historical,,Spring,Phoenix today,,seasonal_mean_temp_c,25.1,degC
+seasonal_comparison_profile,Phoenix,33.4484,-112.074,Historical,,Summer,Phoenix today,,seasonal_mean_temp_c,35.3,degC
+seasonal_comparison_profile,Phoenix,33.4484,-112.074,Historical,,Fall,Phoenix today,,seasonal_mean_temp_c,25.0,degC
+seasonal_comparison_profile,Phoenix,33.4484,-112.074,Historical,,Winter,Phoenix today,,seasonal_precip_mm,55.0,mm
+seasonal_comparison_profile,Phoenix,33.4484,-112.074,Historical,,Spring,Phoenix today,,seasonal_precip_mm,20.0,mm
+seasonal_comparison_profile,Phoenix,33.4484,-112.074,Historical,,Summer,Phoenix today,,seasonal_precip_mm,25.0,mm
+seasonal_comparison_profile,Phoenix,33.4484,-112.074,Historical,,Fall,Phoenix today,,seasonal_precip_mm,20.0,mm
+seasonal_comparison_profile,Tucson,32.2226,-110.9747,Historical,,Winter,Tucson today,,seasonal_mean_temp_c,12.5,degC
+seasonal_comparison_profile,Tucson,32.2226,-110.9747,Historical,,Spring,Tucson today,,seasonal_mean_temp_c,23.2,degC
+seasonal_comparison_profile,Tucson,32.2226,-110.9747,Historical,,Summer,Tucson today,,seasonal_mean_temp_c,32.2,degC
+seasonal_comparison_profile,Tucson,32.2226,-110.9747,Historical,,Fall,Tucson today,,seasonal_mean_temp_c,23.3,degC
+seasonal_comparison_profile,Tucson,32.2226,-110.9747,Historical,,Winter,Tucson today,,seasonal_precip_mm,55.0,mm
+seasonal_comparison_profile,Tucson,32.2226,-110.9747,Historical,,Spring,Tucson today,,seasonal_precip_mm,25.0,mm
+seasonal_comparison_profile,Tucson,32.2226,-110.9747,Historical,,Summer,Tucson today,,seasonal_precip_mm,85.0,mm
+seasonal_comparison_profile,Tucson,32.2226,-110.9747,Historical,,Fall,Tucson today,,seasonal_precip_mm,35.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Winter,2050 SSP1-2.6,,seasonal_mean_temp_c,15.9,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Spring,2050 SSP1-2.6,,seasonal_mean_temp_c,17.9,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Summer,2050 SSP1-2.6,,seasonal_mean_temp_c,23.5,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Fall,2050 SSP1-2.6,,seasonal_mean_temp_c,20.5,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Winter,2050 SSP1-2.6,,seasonal_precip_mm,215.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Spring,2050 SSP1-2.6,,seasonal_precip_mm,66.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Summer,2050 SSP1-2.6,,seasonal_precip_mm,5.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Fall,2050 SSP1-2.6,,seasonal_precip_mm,52.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Winter,2050 SSP2-4.5,,seasonal_mean_temp_c,16.3,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Spring,2050 SSP2-4.5,,seasonal_mean_temp_c,18.4,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Summer,2050 SSP2-4.5,,seasonal_mean_temp_c,24.0,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Fall,2050 SSP2-4.5,,seasonal_mean_temp_c,21.0,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Winter,2050 SSP2-4.5,,seasonal_precip_mm,210.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Spring,2050 SSP2-4.5,,seasonal_precip_mm,64.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Summer,2050 SSP2-4.5,,seasonal_precip_mm,5.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Fall,2050 SSP2-4.5,,seasonal_precip_mm,50.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Winter,2050 SSP5-8.5,,seasonal_mean_temp_c,16.9,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Spring,2050 SSP5-8.5,,seasonal_mean_temp_c,19.1,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Summer,2050 SSP5-8.5,,seasonal_mean_temp_c,24.9,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Fall,2050 SSP5-8.5,,seasonal_mean_temp_c,21.8,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Winter,2050 SSP5-8.5,,seasonal_precip_mm,202.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Spring,2050 SSP5-8.5,,seasonal_precip_mm,60.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Summer,2050 SSP5-8.5,,seasonal_precip_mm,4.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Fall,2050 SSP5-8.5,,seasonal_precip_mm,47.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Winter,2080s SSP1-2.6,,seasonal_mean_temp_c,16.5,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Spring,2080s SSP1-2.6,,seasonal_mean_temp_c,18.5,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Summer,2080s SSP1-2.6,,seasonal_mean_temp_c,24.2,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Fall,2080s SSP1-2.6,,seasonal_mean_temp_c,21.2,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Winter,2080s SSP1-2.6,,seasonal_precip_mm,208.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Spring,2080s SSP1-2.6,,seasonal_precip_mm,62.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Summer,2080s SSP1-2.6,,seasonal_precip_mm,5.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP1-2.6,,Fall,2080s SSP1-2.6,,seasonal_precip_mm,50.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Winter,2080s SSP2-4.5,,seasonal_mean_temp_c,17.4,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Spring,2080s SSP2-4.5,,seasonal_mean_temp_c,19.7,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Summer,2080s SSP2-4.5,,seasonal_mean_temp_c,25.7,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Fall,2080s SSP2-4.5,,seasonal_mean_temp_c,22.3,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Winter,2080s SSP2-4.5,,seasonal_precip_mm,196.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Spring,2080s SSP2-4.5,,seasonal_precip_mm,58.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Summer,2080s SSP2-4.5,,seasonal_precip_mm,4.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP2-4.5,,Fall,2080s SSP2-4.5,,seasonal_precip_mm,45.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Winter,2080s SSP5-8.5,,seasonal_mean_temp_c,18.0,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Spring,2080s SSP5-8.5,,seasonal_mean_temp_c,20.5,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Summer,2080s SSP5-8.5,,seasonal_mean_temp_c,26.9,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Fall,2080s SSP5-8.5,,seasonal_mean_temp_c,23.4,degC
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Winter,2080s SSP5-8.5,,seasonal_precip_mm,182.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Spring,2080s SSP5-8.5,,seasonal_precip_mm,52.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Summer,2080s SSP5-8.5,,seasonal_precip_mm,4.0,mm
+seasonal_future_profile,San Diego,32.7157,-117.1611,SSP5-8.5,,Fall,2080s SSP5-8.5,,seasonal_precip_mm,41.0,mm
