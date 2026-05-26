@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>When Does San Diego Become Phoenix? | Thunder4Champ Initial Prototype</title>
+  <meta name="description" content="Initial prototype for an explorable CMIP6 climate-twin visualization about San Diego's future climate." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav class="topbar" aria-label="Project navigation">
+      <a href="#explorer">Prototype</a>
+      <a href="#writeup">Writeup</a>
+      <a href="#data">Data</a>
+    </nav>
+    <div class="hero-grid">
+      <div>
+        <p class="eyebrow">Thunder4Champ initial prototype</p>
+        <h1>When Does San Diego Become Phoenix?</h1>
+        <p class="lede">An explorable climate-twin map that compares San Diego's projected CMIP6 climate to familiar present-day cities in the U.S. Southwest.</p>
+        <p class="prototype-note">Try the interactions below: change the emissions scenario, switch the future period, drag the year slider, or click a city/bar to update the climate-twin comparison.</p>
+      </div>
+      <aside class="summary-card" aria-label="Current prototype summary">
+        <span class="label">Current view</span>
+        <strong id="currentFinding">Loading climate-twin summary...</strong>
+        <p id="currentDetail">The charts will update after the dataset loads.</p>
+      </aside>
+    </div>
+  </header>
+
+  <main>
+    <section id="explorer" class="section explorer" aria-labelledby="explorer-title">
+      <div class="section-heading">
+        <p class="eyebrow">Interactive visualization</p>
+        <h2 id="explorer-title">San Diego climate-twin explorer</h2>
+        <p>Each interaction updates at least one chart, so the prototype demonstrates the planned project structure and core exploratory workflow.</p>
+      </div>
+
+      <div class="control-panel" aria-label="Visualization controls">
+        <fieldset>
+          <legend>Scenario</legend>
+          <div class="button-row" id="scenarioButtons"></div>
+        </fieldset>
+        <fieldset>
+          <legend>Future period</legend>
+          <div class="button-row" id="periodButtons"></div>
+        </fieldset>
+        <label class="slider-wrap" for="yearSlider">
+          <span>Annual anomaly marker: <strong id="yearLabel">2080</strong></span>
+          <input id="yearSlider" type="range" min="2020" max="2100" step="1" value="2080" />
+        </label>
+        <button class="ghost-button" id="resetButton" type="button">Reset view</button>
+      </div>
+
+      <div class="dashboard-grid">
+        <article class="card map-card">
+          <div class="card-heading">
+            <div>
+              <h3>Climate-twin map</h3>
+              <p>Click a city point to compare its present-day seasonal profile with San Diego's projected future profile.</p>
+            </div>
+            <span class="badge" id="selectedTwinBadge">Selected twin</span>
+          </div>
+          <svg id="mapSvg" class="viz" role="img" aria-label="Map-like scatterplot of cities in the climate-twin comparison set"></svg>
+          <p class="caption">Circle size represents climate-twin similarity for the selected scenario and period. Scores are available for the six comparison cities from the proposal-stage dataset.</p>
+        </article>
+
+        <article class="card ranking-card">
+          <div class="card-heading">
+            <div>
+              <h3>Similarity ranking</h3>
+              <p>Bars show how closely each present-day city resembles future San Diego on a 0-100 climate-twin score.</p>
+            </div>
+          </div>
+          <svg id="rankingSvg" class="viz" role="img" aria-label="Horizontal bar chart of climate-twin similarity scores"></svg>
+          <p class="caption">Click a bar to select that city and update the seasonal comparison below.</p>
+        </article>
+
+        <article class="card line-card">
+          <div class="card-heading">
+            <div>
+              <h3>San Diego warming trajectory</h3>
+              <p>The annual temperature anomaly line gives context for the selected year marker.</p>
+            </div>
+            <span class="badge" id="anomalyBadge">Year marker</span>
+          </div>
+          <svg id="lineSvg" class="viz" role="img" aria-label="Line chart of San Diego annual temperature anomaly by year"></svg>
+        </article>
+
+        <article class="card seasonal-card">
+          <div class="card-heading">
+            <div>
+              <h3>Seasonal profile comparison</h3>
+              <p>Grouped bars compare future San Diego temperatures with the selected present-day twin.</p>
+            </div>
+          </div>
+          <svg id="seasonalSvg" class="viz" role="img" aria-label="Grouped bar chart comparing seasonal temperatures"></svg>
+        </article>
+      </div>
+    </section>
+
+    <section id="writeup" class="section writeup" aria-labelledby="writeup-title">
+      <div class="section-heading">
+        <p class="eyebrow">Prototype writeup</p>
+        <h2 id="writeup-title">Required project description</h2>
+      </div>
+      <div class="writeup-grid">
+        <article class="text-card">
+          <h3>What have you done so far?</h3>
+          <p>So far, we have converted the proposal idea into a working webpage structure with a hero section, control panel, interactive dashboard, data note, and project writeup. We loaded the proposal-stage CMIP6 city dataset into the page and connected it to multiple rough visualizations: a climate-twin map, a similarity ranking chart, a San Diego warming trajectory, and a seasonal comparison chart. We implemented several working interactions, including scenario buttons, future-period buttons, a year slider, clickable city points, and clickable similarity bars. We also added explanatory text so a viewer can understand why the project uses climate twins rather than only showing abstract temperature changes. This initial prototype is not the final polished design, but it demonstrates the main user flow we plan to refine for the final submission.</p>
+        </article>
+        <article class="text-card">
+          <h3>What will be the most challenging of your project to design and why?</h3>
+          <p>The most challenging part will be designing a climate-twin comparison that is both scientifically honest and easy for a general audience to interpret. A similarity score can hide many details, so we need to show enough supporting evidence, such as seasonal temperature patterns and precipitation changes, without overwhelming the reader. It will also be difficult to balance the map, ranking chart, line chart, and narrative annotations so that the interface feels like one connected explanation rather than four separate graphics. Another challenge is communicating uncertainty because climate projections depend on scenario choices, model assumptions, time periods, and local variability. We expect the final design work to focus on making those tradeoffs visible while still keeping the main question, “When does San Diego become Phoenix?”, engaging and intuitive.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="data" class="section data-section" aria-labelledby="data-title">
+      <div class="section-heading">
+        <p class="eyebrow">Data and status</p>
+        <h2 id="data-title">CMIP6 city-level prototype dataset</h2>
+      </div>
+      <div class="data-grid">
+        <article class="text-card">
+          <h3>Dataset used in this prototype</h3>
+          <p>The prototype uses the processed city-level JSON/CSV dataset included with the project proposal. The records summarize selected U.S. city locations, annual San Diego temperature anomalies, seasonal temperature profiles, climate-twin similarity scores, and seasonal precipitation changes. The proposal describes this as a proposal-stage processed dataset with the same schema as the planned Google Cloud / NOAA CMIP6 extraction output.</p>
+        </article>
+        <article class="text-card checklist-card">
+          <h3>Rubric checklist</h3>
+          <ul>
+            <li>Webpage: this repository serves <code>index.html</code> directly through GitHub Pages.</li>
+            <li>GitHub repo: publish these files in a public-facing GitHub repository.</li>
+            <li>Visualization: the page has multiple SVG visualizations on screen.</li>
+            <li>Interaction: scenario buttons, period buttons, slider, city clicks, and bar clicks all update the graphics.</li>
+            <li>Writeup: both required questions are answered with at least four sentences each.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Thunder4Champ — Zonglin Zhang, La Li, Vincent Gao. Initial prototype for course feedback.</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
